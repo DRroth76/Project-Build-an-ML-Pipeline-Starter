@@ -1,0 +1,15 @@
+artifact_uri: file:///home/drroth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2f45e1d14e1d45628169009b37b568ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f45e1d14e1d45628169009b37b568ad
+run_name: bedecked-sloth-457
+run_uuid: 2f45e1d14e1d45628169009b37b568ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729197574868
+status: 1
+tags: []
+user_id: drroth

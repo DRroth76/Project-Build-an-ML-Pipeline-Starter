@@ -1,0 +1,15 @@
+artifact_uri: file:///home/drroth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4f75e7123e7a45b7b40e5b61f34926cc/artifacts
+end_time: 1729208253496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f75e7123e7a45b7b40e5b61f34926cc
+run_name: adaptable-gnat-882
+run_uuid: 4f75e7123e7a45b7b40e5b61f34926cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729208246771
+status: 4
+tags: []
+user_id: drroth

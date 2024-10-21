@@ -1,0 +1,15 @@
+artifact_uri: file:///home/drroth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f149cb454faa40a6bed9b2c51b711e24/artifacts
+end_time: 1729197625907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f149cb454faa40a6bed9b2c51b711e24
+run_name: capable-worm-719
+run_uuid: f149cb454faa40a6bed9b2c51b711e24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729197567042
+status: 4
+tags: []
+user_id: drroth

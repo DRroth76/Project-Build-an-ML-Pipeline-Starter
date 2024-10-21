@@ -1,0 +1,15 @@
+artifact_uri: file:///home/drroth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0d3bbfcb13b249da929489e2ac066beb/artifacts
+end_time: 1729205680161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d3bbfcb13b249da929489e2ac066beb
+run_name: inquisitive-frog-140
+run_uuid: 0d3bbfcb13b249da929489e2ac066beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729205676285
+status: 4
+tags: []
+user_id: drroth

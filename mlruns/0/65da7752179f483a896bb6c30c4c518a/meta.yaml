@@ -1,0 +1,15 @@
+artifact_uri: file:///home/drroth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/65da7752179f483a896bb6c30c4c518a/artifacts
+end_time: 1729195309363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65da7752179f483a896bb6c30c4c518a
+run_name: shivering-duck-163
+run_uuid: 65da7752179f483a896bb6c30c4c518a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729195184792
+status: 4
+tags: []
+user_id: drroth

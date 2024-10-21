@@ -1,0 +1,15 @@
+artifact_uri: file:///home/drroth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fa4a3e7d834741329bc96d3b061615f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa4a3e7d834741329bc96d3b061615f0
+run_name: redolent-moth-765
+run_uuid: fa4a3e7d834741329bc96d3b061615f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729195195291
+status: 1
+tags: []
+user_id: drroth

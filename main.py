@@ -21,7 +21,7 @@ _steps = [
 
 
 # This automatically reads in the configuration
-@hydra.main(config_name='config', version_base = '1.2')
+@hydra.main(config_name='config')
 def go(config: DictConfig):
 
     print(f"Config: {config}")
@@ -32,7 +32,7 @@ def go(config: DictConfig):
     os.environ["WANDB_RUN_GROUP"] = config["main"]["experiment_name"]
 
     # Steps to execute
-    steps_par = config['main'].get('steps', 'all')
+    steps_par = config['main']['steps']#.get('steps', 'all')
     active_steps = steps_par.split(",") if steps_par != "all" else _steps
 
     # Move to a temporary directory
@@ -43,7 +43,7 @@ def go(config: DictConfig):
             _ = mlflow.run(
                 f"{config['main']['components_repository']}/get_data",
                 "main",
-                version='main',
+                #version='main',
                 parameters={
                     "sample": config["etl"]["sample"],
                     "artifact_name": "sample.csv",

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5a7d2027ede548bbb7a4f58db76b421c/artifacts
+end_time: 1729562949813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a7d2027ede548bbb7a4f58db76b421c
+run_name: worried-doe-283
+run_uuid: 5a7d2027ede548bbb7a4f58db76b421c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729562741494
+status: 4
+tags: []
+user_id: root

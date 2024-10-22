@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3038a4098b294607a7bd43f7abb93f2a/artifacts
+end_time: 1729558393988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3038a4098b294607a7bd43f7abb93f2a
+run_name: redolent-cow-257
+run_uuid: 3038a4098b294607a7bd43f7abb93f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729558389469
+status: 4
+tags: []
+user_id: root

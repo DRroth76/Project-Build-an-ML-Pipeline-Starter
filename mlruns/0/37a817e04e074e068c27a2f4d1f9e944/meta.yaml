@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/37a817e04e074e068c27a2f4d1f9e944/artifacts
+end_time: 1729561936813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37a817e04e074e068c27a2f4d1f9e944
+run_name: auspicious-gull-663
+run_uuid: 37a817e04e074e068c27a2f4d1f9e944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729561927440
+status: 4
+tags: []
+user_id: root

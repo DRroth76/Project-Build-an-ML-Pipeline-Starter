@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/df043b7fd3bc4a41bb2c7b6f5a8b7e16/artifacts
+end_time: 1729556972939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df043b7fd3bc4a41bb2c7b6f5a8b7e16
+run_name: classy-fowl-295
+run_uuid: df043b7fd3bc4a41bb2c7b6f5a8b7e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729556967361
+status: 4
+tags: []
+user_id: root

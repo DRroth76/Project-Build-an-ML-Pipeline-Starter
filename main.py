@@ -24,15 +24,12 @@ _steps = [
 @hydra.main(config_name='config')
 def go(config: DictConfig):
 
-    print(f"Config: {config}")
-    print(f"Steps: {config['main']['steps']}")
-
     # Setup the wandb experiment. All runs will be grouped under this name
     os.environ["WANDB_PROJECT"] = config["main"]["project_name"]
     os.environ["WANDB_RUN_GROUP"] = config["main"]["experiment_name"]
 
     # Steps to execute
-    steps_par = config['main']['steps']#.get('steps', 'all')
+    steps_par = config['main']['steps']
     active_steps = steps_par.split(",") if steps_par != "all" else _steps
 
     # Move to a temporary directory
@@ -43,7 +40,7 @@ def go(config: DictConfig):
             _ = mlflow.run(
                 f"{config['main']['components_repository']}/get_data",
                 "main",
-                #version='main',
+                version='main',
                 parameters={
                     "sample": config["etl"]["sample"],
                     "artifact_name": "sample.csv",
@@ -53,22 +50,10 @@ def go(config: DictConfig):
             )
 
         if "basic_cleaning" in active_steps:
-             _ = mlflow.run(
-                f"{config['main']['components_repository']}/basic_cleaning",
-                "main",
-                parameters={
-                    "input_artifact": "sample.csv:latest",
-                    "artifact_name": "clean_sample.csv",
-                    "artifact_type": "cleaned_data",
-                    "artifact_description": "Data with outliers and missing values removed",
-                    "min_price": config["etl"]["min_price"],
-                    "max_price": config["etl"]["max_price"]
-                },
-            )
             ##################
             # Implement here #
             ##################
-            
+            pass
 
         if "data_check" in active_steps:
             ##################

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/da05643be34f4e00a1df227c8cbb0285/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da05643be34f4e00a1df227c8cbb0285
+run_name: mysterious-ray-386
+run_uuid: da05643be34f4e00a1df227c8cbb0285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729562591796
+status: 1
+tags: []
+user_id: root

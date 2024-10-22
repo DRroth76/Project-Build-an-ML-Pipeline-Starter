@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6af4a66545d34e689bd638d04462cee7/artifacts
+end_time: 1729561247902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6af4a66545d34e689bd638d04462cee7
+run_name: welcoming-shrike-608
+run_uuid: 6af4a66545d34e689bd638d04462cee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729561245413
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d4a8232f06984cf984a9ca8f4df1679f/artifacts
+end_time: 1729561535801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4a8232f06984cf984a9ca8f4df1679f
+run_name: stately-colt-972
+run_uuid: d4a8232f06984cf984a9ca8f4df1679f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729561533359
+status: 4
+tags: []
+user_id: root

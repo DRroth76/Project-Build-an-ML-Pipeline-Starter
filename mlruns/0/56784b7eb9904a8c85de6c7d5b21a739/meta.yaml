@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/56784b7eb9904a8c85de6c7d5b21a739/artifacts
+end_time: 1729561487616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56784b7eb9904a8c85de6c7d5b21a739
+run_name: debonair-robin-469
+run_uuid: 56784b7eb9904a8c85de6c7d5b21a739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729561484757
+status: 4
+tags: []
+user_id: root

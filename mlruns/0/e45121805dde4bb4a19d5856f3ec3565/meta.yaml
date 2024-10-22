@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e45121805dde4bb4a19d5856f3ec3565/artifacts
+end_time: 1729561857381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e45121805dde4bb4a19d5856f3ec3565
+run_name: carefree-grouse-757
+run_uuid: e45121805dde4bb4a19d5856f3ec3565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729561843825
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,101 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.0",
+    "heartbeatAt": "2024-10-29T22:36:24.047556",
+    "startedAt": "2024-10-29T22:36:23.378036",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "cleaned_data",
+        "--output_description",
+        "Data with outliers and missing values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/root/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/DRroth76/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "cabf27ae44c4b3c4058e36f05a18f5be4e92946f"
+    },
+    "email": "david.randall.roth97@gmail.com",
+    "root": "/root/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-25A53MP",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3408.0,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3408.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3408.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3408.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3408.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3408.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3408.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3408.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3408.0,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 9.979286193847656
+        }
+    },
+    "gpu": "Quadro M2000",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Quadro M2000",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.709014892578125
+    }
+}

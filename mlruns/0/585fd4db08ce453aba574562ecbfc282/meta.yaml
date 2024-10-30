@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/585fd4db08ce453aba574562ecbfc282/artifacts
+end_time: 1730256868569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 585fd4db08ce453aba574562ecbfc282
+run_name: worried-flea-70
+run_uuid: 585fd4db08ce453aba574562ecbfc282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730256849782
+status: 4
+tags: []
+user_id: root

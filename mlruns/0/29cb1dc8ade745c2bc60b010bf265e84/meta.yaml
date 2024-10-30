@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/29cb1dc8ade745c2bc60b010bf265e84/artifacts
+end_time: 1730256191226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29cb1dc8ade745c2bc60b010bf265e84
+run_name: sassy-eel-283
+run_uuid: 29cb1dc8ade745c2bc60b010bf265e84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730256183529
+status: 4
+tags: []
+user_id: root

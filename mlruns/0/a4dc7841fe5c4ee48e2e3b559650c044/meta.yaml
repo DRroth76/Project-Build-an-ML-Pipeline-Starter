@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a4dc7841fe5c4ee48e2e3b559650c044/artifacts
+end_time: 1730256588026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4dc7841fe5c4ee48e2e3b559650c044
+run_name: clumsy-hare-830
+run_uuid: a4dc7841fe5c4ee48e2e3b559650c044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730256477361
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c3cca37c517b4269bbb410ab94094b15/artifacts
+end_time: 1730256265203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3cca37c517b4269bbb410ab94094b15
+run_name: honorable-mouse-906
+run_uuid: c3cca37c517b4269bbb410ab94094b15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730256260109
+status: 4
+tags: []
+user_id: root

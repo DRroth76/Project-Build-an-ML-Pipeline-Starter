@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fa48605c037b4d8f9bf717763d11af53/artifacts
+end_time: 1730253356299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa48605c037b4d8f9bf717763d11af53
+run_name: traveling-sloth-297
+run_uuid: fa48605c037b4d8f9bf717763d11af53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730253346928
+status: 4
+tags: []
+user_id: root

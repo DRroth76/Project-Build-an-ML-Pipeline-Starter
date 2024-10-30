@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd8bd8f985e345e7986d5497c3fe2b93/artifacts
+end_time: 1730253877044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd8bd8f985e345e7986d5497c3fe2b93
+run_name: unequaled-ant-450
+run_uuid: dd8bd8f985e345e7986d5497c3fe2b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730253802549
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/352fc36f238f4ff9adbadc87b3abfd5b/artifacts
+end_time: 1730250262410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 352fc36f238f4ff9adbadc87b3abfd5b
+run_name: rebellious-fawn-440
+run_uuid: 352fc36f238f4ff9adbadc87b3abfd5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730250250905
+status: 4
+tags: []
+user_id: root

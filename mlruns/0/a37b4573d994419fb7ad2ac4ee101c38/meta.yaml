@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a37b4573d994419fb7ad2ac4ee101c38/artifacts
+end_time: 1730254667011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a37b4573d994419fb7ad2ac4ee101c38
+run_name: grandiose-shad-459
+run_uuid: a37b4573d994419fb7ad2ac4ee101c38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730254549413
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dce7bcaff50c449faa7e01e3ccd987da/artifacts
+end_time: 1730254746985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dce7bcaff50c449faa7e01e3ccd987da
+run_name: magnificent-bear-291
+run_uuid: dce7bcaff50c449faa7e01e3ccd987da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730254667164
+status: 3
+tags: []
+user_id: root

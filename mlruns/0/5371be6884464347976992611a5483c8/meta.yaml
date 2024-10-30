@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5371be6884464347976992611a5483c8/artifacts
+end_time: 1730260320343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5371be6884464347976992611a5483c8
+run_name: worried-asp-569
+run_uuid: 5371be6884464347976992611a5483c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730260153220
+status: 4
+tags: []
+user_id: root

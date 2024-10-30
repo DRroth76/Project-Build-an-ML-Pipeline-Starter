@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7f91af142e8d461498ad2eebb8153a61/artifacts
+end_time: 1730259350867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f91af142e8d461498ad2eebb8153a61
+run_name: calm-auk-317
+run_uuid: 7f91af142e8d461498ad2eebb8153a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730259186769
+status: 4
+tags: []
+user_id: root

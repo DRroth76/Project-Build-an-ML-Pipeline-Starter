@@ -21,7 +21,7 @@ _steps = [
 
 
 # This automatically reads in the configuration
-@hydra.main(config_name='config')
+@hydra.main(version_base=None, config_name='config')
 def go(config: DictConfig):
 
     # Setup the wandb experiment. All runs will be grouped under this name
@@ -60,7 +60,7 @@ def go(config: DictConfig):
                 parameters={
                     "input_artifact": "sample.csv:latest",
                     "output_artifact": "clean_sample.csv",
-                    "output_type": "cleaned_data",
+                    "output_type": "clean_sample",
                     "output_description": "Data with outliers and missing values removed",
                     "min_price": config["etl"]["min_price"],
                     "max_price": config["etl"]["max_price"]

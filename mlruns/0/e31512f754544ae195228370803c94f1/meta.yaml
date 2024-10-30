@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e31512f754544ae195228370803c94f1/artifacts
+end_time: 1730261223157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e31512f754544ae195228370803c94f1
+run_name: dapper-foal-997
+run_uuid: e31512f754544ae195228370803c94f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730261057074
+status: 4
+tags: []
+user_id: root

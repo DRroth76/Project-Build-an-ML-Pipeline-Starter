@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e2c4ae62709544f0858cee874f26dccc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2c4ae62709544f0858cee874f26dccc
+run_name: intrigued-stork-498
+run_uuid: e2c4ae62709544f0858cee874f26dccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730396164640
+status: 1
+tags: []
+user_id: root

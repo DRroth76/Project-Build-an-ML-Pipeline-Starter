@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d3daca7c89ee4475bceae05bd2c749ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3daca7c89ee4475bceae05bd2c749ae
+run_name: flawless-gull-266
+run_uuid: d3daca7c89ee4475bceae05bd2c749ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730395634706
+status: 1
+tags: []
+user_id: root

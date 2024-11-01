@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b0ca3583ee514e959d0e155263ca2a4f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0ca3583ee514e959d0e155263ca2a4f
+run_name: luminous-ray-797
+run_uuid: b0ca3583ee514e959d0e155263ca2a4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730477028626
+status: 1
+tags: []
+user_id: root
